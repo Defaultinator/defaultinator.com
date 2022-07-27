@@ -28,3 +28,7 @@ build-storybook.log*
 
 # Visual Studio
 .vs 
+
+# Firebase
+**/.firebase
+**/.firebaserc
